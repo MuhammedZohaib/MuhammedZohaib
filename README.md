@@ -8,11 +8,9 @@
 </div>
 
 ###
-
 <img align="right" height="150" src="https://i.pinimg.com/originals/d6/1c/d7/d61cd79401ecbb4eff3aaaa7337b3104.gif"  />
 
-###
-
+### Technologies
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="70" />
   <img width="12" />
@@ -38,8 +36,7 @@
   <img width="12" />
 </div>
 
-###
-
+### Contact:
 <div align="left">
   <a href="https://discord.com/users/691841511339589652"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" /></a>
   <a href="mailto:alizuhaib828@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a>
@@ -47,7 +44,6 @@
 </div>
 
 
-###
-
+### Contributions:
 <br clear="both">
 <img src="https://raw.githubusercontent.com/MuhammedZohaib/MuhammedZohaib/output/snake.svg" alt="Snake animation" />
