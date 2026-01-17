@@ -1,55 +1,97 @@
-<h4 align="center">AI, ML, and Deep Learning enthusiast, passionate about harnessing advanced language models and neural networks to drive innovative, data-powered solutions across industries.</h4>
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammedZohaib&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammedZohaib&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=false" height="150" margin-left="1.5rem" alt="languages graph"  />
+
+# 👋 Hi, I'm Muhammad Zohaib
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=AI+%26+ML+Enthusiast;Deep+Learning+Explorer;Building+Data-Driven+Solutions" alt="Typing SVG" />
+
+<p align="center">
+  <i>Passionate about harnessing advanced language models and neural networks to drive innovative, data-powered solutions across industries.</i>
+</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadzohaib0/)
+[![Gmail](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alizuhaib828@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-Chat-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/691841511339589652)
+
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/d6/1c/d7/d61cd79401ecbb4eff3aaaa7337b3104.gif"  />
-
-### 
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="70" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original-wordmark.svg" height="70" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original-wordmark.svg" height="70" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="70" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" height="70" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" height="70" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-plain-wordmark.svg" height="70" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openapi/openapi-original-wordmark.svg" height="70" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="70" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="70"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height="70" />
-  <img width="12" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammedZohaib&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&bg_color=0D1117" height="165" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammedZohaib&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="languages graph" />
 </div>
-
-### 
 
 <div align="center">
-  <a href="https://discord.com/users/691841511339589652"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" /></a>
-  <a href="mailto:alizuhaib828@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a>
-  <a href="https://www.linkedin.com/in/muhammadzohaib0/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammedZohaib&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
+---
 
-### 
+## 🚀 Tech Stack
 
-<br clear="both">
+<div align="center">
+
+### Languages & Frameworks
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="50" alt="Python" title="Python" />
+<img width="20" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" height="50" alt="TensorFlow" title="TensorFlow" />
+<img width="20" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" height="50" alt="PyTorch" title="PyTorch" />
+<img width="20" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="50" alt="Scikit-Learn" title="Scikit-Learn" />
+
+### Data Science & Analysis
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="50" alt="NumPy" title="NumPy" />
+<img width="20" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="50" alt="Pandas" title="Pandas" />
+<img width="20" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" height="50" alt="Jupyter" title="Jupyter" />
+
+### Development & Deployment
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-plain.svg" height="50" alt="FastAPI" title="FastAPI" />
+<img width="20" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="50" alt="Docker" title="Docker" />
+<img width="20" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="50" alt="MySQL" title="MySQL" />
+
+</div>
+
+---
+
+## 🎯 Areas of Expertise
+
+```python
+expertise = {
+    "Machine Learning": ["Supervised Learning", "Unsupervised Learning", "Reinforcement Learning"],
+    "Deep Learning": ["Neural Networks", "CNNs", "RNNs", "Transformers"],
+    "NLP": ["Language Models", "Text Analysis", "Sentiment Analysis"],
+    "Tools & Platforms": ["TensorFlow", "PyTorch", "Scikit-Learn", "Docker"],
+    "Data Engineering": ["Data Preprocessing", "Feature Engineering", "Model Deployment"]
+}
+```
+
+---
+
+## 📈 Contribution Graph
+
 <img src="https://raw.githubusercontent.com/MuhammedZohaib/MuhammedZohaib/output/snake.svg" alt="Snake animation" />
 
-###
+---
+
+<div align="center">
+
+### 💭 Quote of the Day
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+### 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=MuhammedZohaib&color=blueviolet&style=for-the-badge)
+
+<p align="center">
+  <i>⭐ From <a href="https://github.com/MuhammedZohaib">MuhammedZohaib</a> - Let's build something amazing together!</i>
+</p>
+
+</div>
