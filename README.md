@@ -59,14 +59,13 @@ Focus: <b>clean architecture</b>, <b>observability</b>, <b>automation</b>, and <
 </div>
 
 ### Backend • APIs
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="42" alt="FastAPI" />
+<div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="42" alt="FastAPI" />
 <img width="10" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="42" alt="Node.js" />
 </div>
+
 ### AI/ML • Data
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" height="42" alt="PyTorch" />
+<div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" height="42" alt="PyTorch" />
 <img width="10" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" height="42" alt="TensorFlow" />
 <img width="10" />
@@ -78,21 +77,20 @@ Focus: <b>clean architecture</b>, <b>observability</b>, <b>automation</b>, and <
 <img width="10" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" height="42" alt="Jupyter" />
 </div>
+
 ### DevOps • Deployment
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="42" alt="Docker" />
+<div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="42" alt="Docker" />
 <img width="10" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="42" alt="Linux" />
 <img width="10" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" height="42" alt="GitHub Actions" />
 </div>
+
 ### Databases
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="42" alt="MySQL" />
+<div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="42" alt="MySQL" />
 <img width="10" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="42" alt="PostgreSQL" />
 </div>
-> **Note:** If you want this README to match your *exact* stack only, remove any icons you don’t use yet.
 
 ---
 
