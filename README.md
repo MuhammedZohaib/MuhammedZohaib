@@ -128,9 +128,7 @@ Pinned repos tell the full story, but here’s the kind of work I typically ship
 
 ## Contact
 - LinkedIn: **muhammadzohaib0** → https://www.linkedin.com/in/muhammadzohaib0/  
-- Email: **alizuhaib828@gmail.com**  
-- Discord: **691841511339589652**
-
+- Email: **alizuhaib828@gmail.com**
 ---
 
 <div align="center">
