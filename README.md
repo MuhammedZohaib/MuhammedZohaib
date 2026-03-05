@@ -107,14 +107,7 @@ Pinned repos tell the full story, but here’s the kind of work I typically ship
 ## GitHub Analytics
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MuhammedZohaib&show_icons=true&hide_border=true&theme=tokyonight" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammedZohaib&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedZohaib&layout=compact&hide_border=true&theme=tokyonight" />
-
 </div>
 
 ---
