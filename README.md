@@ -230,7 +230,7 @@ PRACTICES    →   TDD · Clean Architecture · DRY · SOLID · Code Review
 [![Discord](https://img.shields.io/badge/Discord-@MuhammadZohaib-5865F2?style=flat-square&labelColor=0D1117)](https://discord.com/users/691841511339589652)
 
 <br/><br/>
-<div align="center">
+
 ```
 ╔══════════════════════════════════════════════════════╗
 ║                                                      ║
@@ -238,7 +238,7 @@ PRACTICES    →   TDD · Clean Architecture · DRY · SOLID · Code Review
 ║                                                      ║
 ╚══════════════════════════════════════════════════════╝
 ```
-</div>
+
 
 <br/>
 
