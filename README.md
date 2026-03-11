@@ -140,9 +140,11 @@ to live system.
 
 <br/>
 
-<div>
+<div align="center">
 
 **`━━━━━━━━━━━━━━━  THE STACK  ━━━━━━━━━━━━━━━`**
+</div>
+<div>
 
 ```
 LANGUAGES    →   Python · TypeScript · JavaScript · Bash · SQL
