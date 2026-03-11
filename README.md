@@ -28,7 +28,7 @@
 <tr>
 <td width="50%" valign="top">
 
-## `> WHO`
+**`> WHO`**
 
 I'm a software engineer who builds across the entire stack without switching personas. Backend services, ML pipelines, cloud infrastructure, frontend interfaces — these aren't separate disciplines to me. They're chapters of the same story.
 
@@ -37,7 +37,7 @@ I'm a software engineer who builds across the entire stack without switching per
 </td>
 <td width="50%" valign="top">
 
-## `> WHY`
+**`> WHY`**
 
 Most engineers optimize for depth in one lane.
 I optimize for **product completeness**.
@@ -56,7 +56,7 @@ The gap between a prototype and a production system is where most projects die. 
 
 <div align="center">
 
-## `━━━━━━━━━━  WHAT I BUILD  ━━━━━━━━━━`
+**`━━━━━━━━━━━━━  WHAT I BUILD  ━━━━━━━━━━━━━`**
 
 </div>
 
@@ -65,12 +65,12 @@ The gap between a prototype and a production system is where most projects die. 
 ```
 ┌─────────────────────────────────────────────────────────────────────────┐
 │                                                                         │
-│   BACKEND          ██████████████████████████████  APIs, async, queues  │
-│   FRONTEND         █████████████████████████░░░░░  Web, SPAs, mobile    │
-│   AI / ML          ████████████████████████████░░  NLP, CV, inference   │
-│   DEVOPS           █████████████████████████░░░░░  Docker, CI/CD, cloud │
-│   DATA             ████████████████████████░░░░░░  Pipelines, analytics │
-│   SYSTEMS          ███████████████████████░░░░░░░  Architecture, scale  │
+│   BACKEND     ██████████████████████████████  APIs, async, queues       │
+│   FRONTEND    █████████████████████████░░░░░  Web, SPAs, UI             │
+│   AI / ML     ████████████████████████████░░  NLP, CV, inference        │
+│   DEVOPS      █████████████████████████░░░░░  Docker, CI/CD, cloud      │
+│   DATA        ████████████████████████░░░░░░  Pipelines, analytics      │
+│   SYSTEMS     ███████████████████████░░░░░░░  Architecture, scale       │
 │                                                                         │
 └─────────────────────────────────────────────────────────────────────────┘
 ```
@@ -83,7 +83,7 @@ The gap between a prototype and a production system is where most projects die. 
 
 <div align="center">
 
-## `━━━━━━━━━━  HOW I THINK  ━━━━━━━━━━`
+**`━━━━━━━━━━━━━━  HOW I THINK  ━━━━━━━━━━━━━━`**
 
 </div>
 
@@ -106,8 +106,8 @@ Always.
 **`[ OBSERVE ]`**
 
 If it's not logged,
-monitored, and alertable
-— it doesn't exist
+monitored, alertable —
+it doesn't exist
 in production.
 
 </td>
@@ -115,10 +115,10 @@ in production.
 
 **`[ AUTOMATE ]`**
 
-If you do it twice,
-script it. If it's
-critical, test it.
-If it breaks, alert it.
+Do it twice?
+Script it. Critical?
+Test it. Breaks?
+Alert it.
 
 </td>
 <td align="center" width="25%">
@@ -126,9 +126,9 @@ If it breaks, alert it.
 **`[ OWN IT ]`**
 
 No hand-offs without
-understanding.
-I take things from
-idea → live system.
+understanding. I take
+things from idea
+to live system.
 
 </td>
 </tr>
@@ -142,7 +142,7 @@ idea → live system.
 
 <div align="center">
 
-## `━━━━━━━━━━  THE STACK  ━━━━━━━━━━`
+**`━━━━━━━━━━━━━━━  THE STACK  ━━━━━━━━━━━━━━━`**
 
 ```
 LANGUAGES    →   Python · TypeScript · JavaScript · Bash · SQL
@@ -165,30 +165,28 @@ PRACTICES    →   TDD · Clean Architecture · DRY · SOLID · Code Review
 
 <div align="center">
 
-## `━━━━━━━━━━  WHAT SHIPS  ━━━━━━━━━━`
+**`━━━━━━━━━━━━━━━  WHAT SHIPS  ━━━━━━━━━━━━━━━`**
 
 </div>
 
 <br/>
 
 ```
-  ╔══════════════════════════════════════════════════════════════════╗
-  ║  AI-POWERED APIS        Model-backed endpoints with versioned    ║
-  ║                         inference, auth, rate limiting, and      ║
-  ║                         production-grade observability.          ║
-  ╠══════════════════════════════════════════════════════════════════╣
-  ║  ML PIPELINES           Reproducible, end-to-end: data → clean   ║
-  ║                         → features → train → evaluate → deploy.  ║
-  ╠══════════════════════════════════════════════════════════════════╣
-  ║  FULL-STACK PRODUCTS    From DB schema to UI component — clean   ║
-  ║                         domain boundaries, RBAC, and real UX.    ║
-  ╠══════════════════════════════════════════════════════════════════╣
-  ║  VOICE & CHAT AGENTS    Conversational AI systems with routing,  ║
-  ║                         knowledge bases, and live integrations.  ║
-  ╠══════════════════════════════════════════════════════════════════╣
-  ║  INFRA & AUTOMATION     Dockerized deploys, secrets management,  ║
-  ║                         CI/CD gates, health checks, rollbacks.   ║
-  ╚══════════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════╗
+║  AI-POWERED APIS       Model-backed endpoints, versioned inference,║
+║                        auth, rate limiting, observability.         ║
+╠════════════════════════════════════════════════════════════════════╣
+║  ML PIPELINES          Reproducible: data → clean → features →     ║
+║                        train → evaluate → deploy.                  ║
+╠════════════════════════════════════════════════════════════════════╣
+║  FULL-STACK PRODUCTS   DB schema to UI — auth, RBAC, clean UX.     ║
+╠════════════════════════════════════════════════════════════════════╣
+║  VOICE & CHAT AGENTS   Conversational AI: routing, knowledge bases,║
+║                        and live integrations.                      ║
+╠════════════════════════════════════════════════════════════════════╣
+║  INFRA & AUTOMATION    Docker, CI/CD, secrets, health checks,      ║
+║                        rollback strategy.                          ║
+╚════════════════════════════════════════════════════════════════════╝
 ```
 
 <br/>
@@ -199,7 +197,7 @@ PRACTICES    →   TDD · Clean Architecture · DRY · SOLID · Code Review
 
 <div align="center">
 
-## `━━━━━━━━━━  GITHUB  ━━━━━━━━━━`
+**`━━━━━━━━━━━━━━━━━  GITHUB  ━━━━━━━━━━━━━━━━━`**
 
 <br/>
 
@@ -219,24 +217,24 @@ PRACTICES    →   TDD · Clean Architecture · DRY · SOLID · Code Review
 
 <div align="center">
 
-## `━━━━━━━━━━  REACH ME  ━━━━━━━━━━`
+**`━━━━━━━━━━━━━━━━  REACH ME  ━━━━━━━━━━━━━━━━`**
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-_muhammadzohaib0_-0A66C2?style=flat-square&labelColor=0D1117)](https://www.linkedin.com/in/muhammadzohaib0/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-muhammadzohaib0-0A66C2?style=flat-square&labelColor=0D1117)](https://www.linkedin.com/in/muhammadzohaib0/)
 &nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-_alizuhaib828%40gmail.com_-D14836?style=flat-square&labelColor=0D1117)](mailto:alizuhaib828@gmail.com)
+[![Email](https://img.shields.io/badge/Email-alizuhaib828%40gmail.com-D14836?style=flat-square&labelColor=0D1117)](mailto:alizuhaib828@gmail.com)
 &nbsp;&nbsp;
-[![Discord](https://img.shields.io/badge/Discord-_@MuhammadZohaib_-5865F2?style=flat-square&labelColor=0D1117)](https://discord.com/users/691841511339589652)
+[![Discord](https://img.shields.io/badge/Discord-@MuhammadZohaib-5865F2?style=flat-square&labelColor=0D1117)](https://discord.com/users/691841511339589652)
 
 <br/><br/>
 
 ```
-  ╔══════════════════════════════════════════════════════╗
-  ║                                                      ║
-  ║   Building something ambitious? Let's ship it.       ║
-  ║                                                      ║
-  ╚══════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║   Building something ambitious? Let's ship it.       ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
 ```
 
 <br/>
