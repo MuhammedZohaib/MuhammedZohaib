@@ -1,138 +1,248 @@
 <div align="center">
 
-# Muhammad Zohaib  
-### Full‑Stack • DevOps • Applied AI/ML (3–5 yrs experience)
+<br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=900&color=2E9EF7&center=true&vCenter=true&width=820&lines=Building+production-ready+APIs+%26+web+apps;Deploying+reliable+systems+with+CI%2FCD+%26+containers;Shipping+AI%2FML+features+that+create+measurable+impact" alt="Typing SVG" />
+```
+███╗   ███╗██╗   ██╗██╗  ██╗ █████╗ ███╗   ███╗███╗   ███╗ █████╗ ██████╗
+████╗ ████║██║   ██║██║  ██║██╔══██╗████╗ ████║████╗ ████║██╔══██╗██╔══██╗
+██╔████╔██║██║   ██║███████║███████║██╔████╔██║██╔████╔██║███████║██║  ██║
+██║╚██╔╝██║██║   ██║██╔══██║██╔══██║██║╚██╔╝██║██║╚██╔╝██║██╔══██║██║  ██║
+██║ ╚═╝ ██║╚██████╔╝██║  ██║██║  ██║██║ ╚═╝ ██║██║ ╚═╝ ██║██║  ██║██████╔╝
+╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═════╝
+                                                              Z O H A I B
+```
 
-<p>
-I build end‑to‑end products: <b>fast APIs</b>, <b>data/ML pipelines</b>, and <b>containerized deployments</b>.<br/>
-Focus: <b>clean architecture</b>, <b>observability</b>, <b>automation</b>, and <b>model-to-production</b>.
-</p>
+<br/>
 
-<p>
-  <a href="https://www.linkedin.com/in/muhammadzohaib0/"><img src="https://img.shields.io/badge/LinkedIn-muhammadzohaib0-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:alizuhaib828@gmail.com"><img src="https://img.shields.io/badge/Email-alizuhaib828%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://discord.com/users/691841511339589652"><img src="https://img.shields.io/badge/Discord-@MuhammadZohaib-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=18&duration=3000&pause=800&color=FFFFFF&background=00000000&center=true&vCenter=true&width=700&lines=Engineer.+Builder.+Thinker.;Full-Stack+%E2%80%94+DevOps+%E2%80%94+AI%2FML+%E2%80%94+Systems;I+don%27t+specialize.+I+ship+complete+products.;From+zero+to+production%2C+end+to+end.)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=MuhammedZohaib&style=flat-square&color=2E9EF7" alt="profile views"/>
+<br/>
+
+---
 
 </div>
 
----
+<br/>
 
-## Operating Principles
-- **Ship > polish forever**: deliver value in iterations, with tight feedback loops.
-- **Production mindset**: versioning, testing, monitoring, rollback paths.
-- **Data/ML with engineering rigor**: reproducible pipelines, measurable metrics, clear baselines.
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+## `> WHO`
 
-## What I do (end-to-end)
-- **Full‑Stack Engineering**: build APIs + web apps with authentication, RBAC, and clean domain boundaries.
-- **DevOps & Platform**: containerization, CI/CD pipelines, environment parity, infra automation.
-- **Applied AI/ML**: classical ML + deep learning + NLP, with deployment patterns (batch/online inference).
-- **MLOps basics**: experiment tracking, dataset/version hygiene, model packaging and rollout.
+I'm a software engineer who builds across the entire stack without switching personas. Backend services, ML pipelines, cloud infrastructure, frontend interfaces — these aren't separate disciplines to me. They're chapters of the same story.
 
----
+3–5 years of shipping things that run in production and don't fall over.
 
-## Core Focus Areas
-| Domain | What I deliver |
-|---|---|
-| Backend | FastAPI services, REST, async workers, background jobs, caching |
-| Data | preprocessing, feature engineering, pipelines, evaluation & metrics |
-| AI/ML | NLP, transformers, classification, retrieval/search, model serving |
-| DevOps | Docker, CI/CD, environment management, reliability practices |
-| Databases | schema design, indexing, query tuning, data access patterns |
+</td>
+<td width="50%" valign="top">
 
----
+## `> WHY`
 
-## Tech Stack (toolbox)
+Most engineers optimize for depth in one lane.
+I optimize for **product completeness**.
 
-### Languages
-<div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="42" alt="Python" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="42" alt="JavaScript" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="42" alt="TypeScript" />
-</div>
+The gap between a prototype and a production system is where most projects die. I live in that gap — and I close it.
 
-### Backend • APIs
-<div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="42" alt="FastAPI" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="42" alt="Node.js" />
-</div>
+</td>
+</tr>
+</table>
 
-### AI/ML • Data
-<div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" height="42" alt="PyTorch" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" height="42" alt="TensorFlow" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="42" alt="Scikit-Learn" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="42" alt="NumPy" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="42" alt="Pandas" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" height="42" alt="Jupyter" />
-</div>
-
-### DevOps • Deployment
-<div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="42" alt="Docker" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="42" alt="Linux" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" height="42" alt="GitHub Actions" />
-</div>
-
-### Databases
-<div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="42" alt="MySQL" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="42" alt="PostgreSQL" />
-</div>
+<br/>
 
 ---
 
-## Highlighted Work
-Pinned repos tell the full story, but here’s the kind of work I typically ship:
-
-- **AI-powered APIs**: model-backed endpoints (classification, similarity, retrieval) with versioned inference.
-- **Data pipelines**: repeatable preprocessing + evaluation + training runs (baseline → iteration).
-- **Production deployments**: Dockerized services with CI/CD, environment configs, and health checks.
-- **Performance & reliability**: caching, async tasks, DB indexing, structured logs.
-
----
-
-## GitHub Analytics
-
-<div align="center">
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammedZohaib&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-## Production Checklist (how I build)
-- ✅ **Testing**: unit tests for core logic; integration tests for API paths  
-- ✅ **Quality gates**: lint + format + tests in CI  
-- ✅ **Observability**: structured logs, metrics mindset, clear error handling  
-- ✅ **Release hygiene**: semantic versioning, changelogs, rollback strategy  
-- ✅ **Security basics**: secrets management patterns, least-privilege mindset  
-
----
-
-## Contribution Graph
-<img src="https://raw.githubusercontent.com/MuhammedZohaib/MuhammedZohaib/output/snake.svg" alt="snake animation" />
-
----
-
-## Contact
-- LinkedIn: **muhammadzohaib0** → https://www.linkedin.com/in/muhammadzohaib0/  
-- Email: **alizuhaib828@gmail.com**
----
+<br/>
 
 <div align="center">
 
-**If you’re building a product that needs solid engineering + applied ML, let’s talk.**
+## `━━━━━━━━━━  WHAT I BUILD  ━━━━━━━━━━`
 
 </div>
+
+<br/>
+
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│                                                                         │
+│   BACKEND          ██████████████████████████████  APIs, async, queues  │
+│   FRONTEND         █████████████████████████░░░░░  Web, SPAs, mobile    │
+│   AI / ML          ████████████████████████████░░  NLP, CV, inference   │
+│   DEVOPS           █████████████████████████░░░░░  Docker, CI/CD, cloud │
+│   DATA             ████████████████████████░░░░░░  Pipelines, analytics │
+│   SYSTEMS          ███████████████████████░░░░░░░  Architecture, scale  │
+│                                                                         │
+└─────────────────────────────────────────────────────────────────────────┘
+```
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+## `━━━━━━━━━━  HOW I THINK  ━━━━━━━━━━`
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+**`[ SHIP FIRST ]`**
+
+Iterate fast.
+Feedback beats
+speculation.
+Always.
+
+</td>
+<td align="center" width="25%">
+
+**`[ OBSERVE ]`**
+
+If it's not logged,
+monitored, and alertable
+— it doesn't exist
+in production.
+
+</td>
+<td align="center" width="25%">
+
+**`[ AUTOMATE ]`**
+
+If you do it twice,
+script it. If it's
+critical, test it.
+If it breaks, alert it.
+
+</td>
+<td align="center" width="25%">
+
+**`[ OWN IT ]`**
+
+No hand-offs without
+understanding.
+I take things from
+idea → live system.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+## `━━━━━━━━━━  THE STACK  ━━━━━━━━━━`
+
+```
+LANGUAGES    →   Python · TypeScript · JavaScript · Bash · SQL
+BACKEND      →   FastAPI · Node.js · Express · REST · WebSockets · Queues
+FRONTEND     →   React · Next.js · Tailwind · Responsive · Accessible
+AI / ML      →   PyTorch · TensorFlow · Scikit-learn · Transformers · LangChain
+DATABASES    →   PostgreSQL · MySQL · Redis · Vector DBs · Schema Design
+DEVOPS       →   Docker · GitHub Actions · Linux · Nginx · CI/CD · Secrets
+CLOUD        →   AWS · GCP · VPS · Edge · Serverless · Managed Services
+PRACTICES    →   TDD · Clean Architecture · DRY · SOLID · Code Review
+```
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+## `━━━━━━━━━━  WHAT SHIPS  ━━━━━━━━━━`
+
+</div>
+
+<br/>
+
+```
+  ╔══════════════════════════════════════════════════════════════════╗
+  ║  AI-POWERED APIS        Model-backed endpoints with versioned    ║
+  ║                         inference, auth, rate limiting, and      ║
+  ║                         production-grade observability.          ║
+  ╠══════════════════════════════════════════════════════════════════╣
+  ║  ML PIPELINES           Reproducible, end-to-end: data → clean   ║
+  ║                         → features → train → evaluate → deploy.  ║
+  ╠══════════════════════════════════════════════════════════════════╣
+  ║  FULL-STACK PRODUCTS    From DB schema to UI component — clean   ║
+  ║                         domain boundaries, RBAC, and real UX.    ║
+  ╠══════════════════════════════════════════════════════════════════╣
+  ║  VOICE & CHAT AGENTS    Conversational AI systems with routing,  ║
+  ║                         knowledge bases, and live integrations.  ║
+  ╠══════════════════════════════════════════════════════════════════╣
+  ║  INFRA & AUTOMATION     Dockerized deploys, secrets management,  ║
+  ║                         CI/CD gates, health checks, rollbacks.   ║
+  ╚══════════════════════════════════════════════════════════════════╝
+```
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+## `━━━━━━━━━━  GITHUB  ━━━━━━━━━━`
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=MuhammedZohaib&theme=dark&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=555555)](https://git.io/streak-stats)
+
+<br/>
+
+![Snake animation](https://raw.githubusercontent.com/MuhammedZohaib/MuhammedZohaib/output/snake.svg)
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+## `━━━━━━━━━━  REACH ME  ━━━━━━━━━━`
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-_muhammadzohaib0_-0A66C2?style=flat-square&labelColor=0D1117)](https://www.linkedin.com/in/muhammadzohaib0/)
+&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-_alizuhaib828%40gmail.com_-D14836?style=flat-square&labelColor=0D1117)](mailto:alizuhaib828@gmail.com)
+&nbsp;&nbsp;
+[![Discord](https://img.shields.io/badge/Discord-_@MuhammadZohaib_-5865F2?style=flat-square&labelColor=0D1117)](https://discord.com/users/691841511339589652)
+
+<br/><br/>
+
+```
+  ╔══════════════════════════════════════════════════════╗
+  ║                                                      ║
+  ║   Building something ambitious? Let's ship it.       ║
+  ║                                                      ║
+  ╚══════════════════════════════════════════════════════╝
+```
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=MuhammedZohaib&style=flat-square&color=ffffff&label=PROFILE+VIEWS)
+
+</div>
+
+<br/>
