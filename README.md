@@ -140,7 +140,7 @@ to live system.
 
 <br/>
 
-<div align="center">
+<div>
 
 **`━━━━━━━━━━━━━━━  THE STACK  ━━━━━━━━━━━━━━━`**
 
