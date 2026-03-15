@@ -84,7 +84,7 @@ CLOUD        →   AWS · GCP · VPS · Edge · Serverless · Managed Services
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-alizuhaib828%40gmail.com-D14836?style=flat-square&labelColor=0D1117)](mailto:alizuhaib828@gmail.com)
 &nbsp;
-[![Discord](https://img.shields.io/badge/Discord-@MuhammedZohaib?style=flat-square&labelColor=0D1117)](https://discord.com/users/691841511339589652)
+[![Discord](https://img.shields.io/badge/Discord-snow-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/691841511339589652)
 &nbsp;
 ![Profile Views](https://komarev.com/ghpvc/?username=MuhammedZohaib&style=flat-square&color=ffffff&label=VIEWS)
 
