@@ -61,21 +61,6 @@ Most engineers go deep in one lane. I close the gap between prototype and produc
 <div align="center">
 
 ```
-LANGUAGES    →   Python · TypeScript · JavaScript · Bash · SQL
-BACKEND      →   FastAPI · Node.js · Express · REST · WebSockets · Queues
-FRONTEND     →   React · Next.js · Tailwind · Responsive · Accessible
-AI / ML      →   PyTorch · TensorFlow · Scikit-learn · Transformers · LangChain
-DATABASES    →   PostgreSQL · MySQL · Redis · Vector DBs · Schema Design
-DEVOPS       →   Docker · GitHub Actions · Linux · Nginx · CI/CD · Secrets
-CLOUD        →   AWS · GCP · VPS · Edge · Serverless · Managed Services
-```
-</div>
-
----
-
-<div align="center">
-
-```
 ╔════════════════════════════════════════════════════════════════════╗
 ║  AI-POWERED APIS       Model-backed endpoints, versioned inference ║
 ║  ML PIPELINES          data → clean → features → train → deploy    ║
