@@ -12,10 +12,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=17&duration=3000&pause=800&color=FFFFFF&background=00000000&center=true&vCenter=true&width=680&lines=Engineer.+Builder.+Thinker.;Full-Stack+%E2%80%94+DevOps+%E2%80%94+AI%2FML+%E2%80%94+Systems;I+don%27t+specialize.+I+ship+complete+products.)](https://git.io/typing-svg)
 
----
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=MuhammedZohaib&theme=dark&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=555555)](https://git.io/streak-stats)
-
 </div>
 
 ---
@@ -42,12 +38,15 @@ Most engineers go deep in one lane. I close the gap between prototype and produc
 ---
 
 <div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=MuhammedZohaib&theme=dark&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=555555)](https://git.io/streak-stats)
   
 ```
 ╔══════════════════════════════════════════════════════╗
 ║   Building something ambitious? Let's ship it.       ║
 ╚══════════════════════════════════════════════════════╝
 ```
+
 </div>
 
 ---
