@@ -19,8 +19,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=MuhammedZohaib&theme=dark&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=555555)](https://git.io/streak-stats)
 
-![Snake animation](https://raw.githubusercontent.com/MuhammedZohaib/MuhammedZohaib/output/snake.svg)
-
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-muhammadzohaib0-0A66C2?style=flat-square&labelColor=0D1117)](https://www.linkedin.com/in/muhammadzohaib0/)
