@@ -39,8 +39,6 @@ Most engineers go deep in one lane. I close the gap between prototype and produc
 </tr>
 </table>
 
----
-
 <div align="center">
 
 ```
@@ -56,8 +54,6 @@ Most engineers go deep in one lane. I close the gap between prototype and produc
 
 </div>
 
----
-
 <div align="center">
 
 ```
@@ -71,8 +67,6 @@ Most engineers go deep in one lane. I close the gap between prototype and produc
 ```
 
 </div>
-
----
 
 <div align="center">
   
