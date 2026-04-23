@@ -16,18 +16,20 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=MuhammedZohaib&theme=dark&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=555555)](https://git.io/streak-stats)
 
+</div>
+
 ---
 
 <table>
 <tr>
-<td width="50%" align="center" valign="top">
+<td width="50%" valign="top">
 
 **`> WHO`**
 
 I build end-to-end products — APIs, ML pipelines, infra, frontends — without switching personas. 3–5 years of shipping things that run in production and don't fall over.
 
 </td>
-<td width="50%" align="center" valign="top">
+<td width="50%" valign="top">
 
 **`> WHY`**
 
@@ -89,5 +91,3 @@ CLOUD        →   AWS · GCP · VPS · Edge · Serverless · Managed Services
 [![Discord](https://img.shields.io/badge/Discord-snow-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/691841511339589652)
 &nbsp;
 ![Profile Views](https://komarev.com/ghpvc/?username=MuhammedZohaib&style=flat-square&color=ffffff&label=VIEWS)
-
-</div>
