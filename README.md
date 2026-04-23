@@ -82,7 +82,7 @@ CLOUD        →   AWS · GCP · VPS · Edge · Serverless · Managed Services
 ║   Building something ambitious? Let's ship it.       ║
 ╚══════════════════════════════════════════════════════╝
 ```
----
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-muhammadzohaib0-0A66C2?style=flat-square&labelColor=0D1117)](https://www.linkedin.com/in/muhammadzohaib0/)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-alizuhaib828%40gmail.com-D14836?style=flat-square&labelColor=0D1117)](mailto:alizuhaib828@gmail.com)
