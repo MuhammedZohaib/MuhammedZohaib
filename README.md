@@ -41,6 +41,8 @@ Most engineers go deep in one lane. I close the gap between prototype and produc
 
 ---
 
+<div align="center">
+
 ```
 ┌─────────────────────────────────────────────────────────────────────────┐
 │   BACKEND     ██████████████████████████████  APIs, async, queues       │
@@ -52,7 +54,11 @@ Most engineers go deep in one lane. I close the gap between prototype and produc
 └─────────────────────────────────────────────────────────────────────────┘
 ```
 
+</div>
+
 ---
+
+<div align="center">
 
 ```
 LANGUAGES    →   Python · TypeScript · JavaScript · Bash · SQL
@@ -63,8 +69,11 @@ DATABASES    →   PostgreSQL · MySQL · Redis · Vector DBs · Schema Design
 DEVOPS       →   Docker · GitHub Actions · Linux · Nginx · CI/CD · Secrets
 CLOUD        →   AWS · GCP · VPS · Edge · Serverless · Managed Services
 ```
+</div>
 
 ---
+
+<div align="center">
 
 ```
 ╔════════════════════════════════════════════════════════════════════╗
@@ -75,6 +84,8 @@ CLOUD        →   AWS · GCP · VPS · Edge · Serverless · Managed Services
 ║  INFRA & AUTOMATION    CI/CD, secrets, health checks, rollbacks    ║
 ╚════════════════════════════════════════════════════════════════════╝
 ```
+
+</div>
 
 ---
 
