@@ -39,34 +39,7 @@ Most engineers go deep in one lane. I close the gap between prototype and produc
 </tr>
 </table>
 
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│   BACKEND     ██████████████████████████████  APIs, async, queues       │
-│   FRONTEND    █████████████████████████░░░░░  Web, SPAs, UI             │
-│   AI / ML     ████████████████████████████░░  NLP, CV, inference        │
-│   DEVOPS      █████████████████████████░░░░░  Docker, CI/CD, cloud      │
-│   DATA        ████████████████████████░░░░░░  Pipelines, analytics      │
-│   SYSTEMS     ███████████████████████░░░░░░░  Architecture, scale       │
-└─────────────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-<div align="center">
-
-```
-╔════════════════════════════════════════════════════════════════════╗
-║  AI-POWERED APIS       Model-backed endpoints, versioned inference ║
-║  ML PIPELINES          data → clean → features → train → deploy    ║
-║  FULL-STACK PRODUCTS   DB schema to UI — auth, RBAC, clean UX      ║
-║  VOICE & CHAT AGENTS   Routing, knowledge bases, live integrations ║
-║  INFRA & AUTOMATION    CI/CD, secrets, health checks, rollbacks    ║
-╚════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
+---
 
 <div align="center">
   
