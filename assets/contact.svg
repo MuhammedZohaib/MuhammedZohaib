@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 140" width="900" height="140" role="img" aria-label="Contact: got something worth racing for? Send a telegram.">
+<title>Contact: got something worth racing for? Send a telegram.</title>
+<defs><linearGradient id="gt" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F0D68A"/><stop offset=".55" stop-color="#C9A24D"/><stop offset="1" stop-color="#8A6D2B"/></linearGradient></defs>
+<rect width="900" height="140" rx="14" fill="#11151B"/><rect x="7" y="7" width="886" height="126" rx="9" fill="none" stroke="#C9A24D" stroke-width="1.5" stroke-dasharray="10 6" opacity=".8"/>
+<text x="450" y="60" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-weight="700" font-size="26" letter-spacing="7" fill="url(#gt)" textLength="520" lengthAdjust="spacing">TELEGRAM OFFICE</text>
+<text x="450" y="92" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-style="italic" font-size="18" fill="#E8E3D5">Got something worth racing for? Send a telegram.</text>
+<text x="450" y="118" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" letter-spacing="5" fill="#8E8A7E">OPEN FOR AMBITIOUS BUILDS</text>
+</svg>

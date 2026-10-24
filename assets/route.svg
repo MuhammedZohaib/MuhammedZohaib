@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260" role="img" aria-label="Route from San Diego to New York: prototype, MVP, production, scale, finish">
+<title>Route from San Diego to New York: prototype, MVP, production, scale, finish</title>
+<defs><radialGradient id="rb" cx="35%" cy="30%" r="75%"><stop offset="0" stop-color="#fff"/><stop offset=".4" stop-color="#B9BCC2"/><stop offset="1" stop-color="#3A3F47"/></radialGradient></defs>
+<rect width="1200" height="260" rx="16" fill="#0F1319"/>
+<path d="M70 140 C 160 100, 245 180, 335 140 C 425 100, 510 180, 600 140 C 690 100, 775 180, 865 140 C 955 100, 1040 180, 1130 140" fill="none" stroke="#C9A24D" stroke-width="2" opacity=".18"/>
+<path id="route" d="M70 140 C 160 100, 245 180, 335 140 C 425 100, 510 180, 600 140 C 690 100, 775 180, 865 140 C 955 100, 1040 180, 1130 140" fill="none" stroke="#C9A24D" stroke-width="4" stroke-linecap="round" stroke-dasharray="2 10"><animate attributeName="stroke-dashoffset" from="0" to="-48" dur="3s" repeatCount="indefinite"/></path>
+<line x1="70" y1="152" x2="70" y2="188" stroke="#2A2F38" stroke-width="1.5"/>
+<circle cx="70" cy="140" r="9" fill="#0D1117" stroke="#C9A24D" stroke-width="3"/>
+<text x="60" y="212" text-anchor="start" font-family="Georgia,'Times New Roman',serif" font-weight="700" font-size="19" letter-spacing="2" fill="#E8E3D5" >PROTOTYPE</text>
+<text x="60" y="234" text-anchor="start" font-family="'Courier New',Courier,monospace" font-size="14" fill="#8E8A7E">it runs</text>
+<line x1="335" y1="152" x2="335" y2="188" stroke="#2A2F38" stroke-width="1.5"/>
+<circle cx="335" cy="140" r="9" fill="#0D1117" stroke="#C9A24D" stroke-width="3"/>
+<text x="335" y="212" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-weight="700" font-size="19" letter-spacing="2" fill="#E8E3D5" >MVP</text>
+<text x="335" y="234" text-anchor="middle" font-family="'Courier New',Courier,monospace" font-size="14" fill="#8E8A7E">it works</text>
+<line x1="600" y1="152" x2="600" y2="188" stroke="#2A2F38" stroke-width="1.5"/>
+<circle cx="600" cy="140" r="9" fill="#0D1117" stroke="#C9A24D" stroke-width="3"/>
+<text x="600" y="212" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-weight="700" font-size="19" letter-spacing="2" fill="#E8E3D5" >PRODUCTION</text>
+<text x="600" y="234" text-anchor="middle" font-family="'Courier New',Courier,monospace" font-size="14" fill="#8E8A7E">it holds up</text>
+<line x1="865" y1="152" x2="865" y2="188" stroke="#2A2F38" stroke-width="1.5"/>
+<circle cx="865" cy="140" r="9" fill="#0D1117" stroke="#C9A24D" stroke-width="3"/>
+<text x="865" y="212" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-weight="700" font-size="19" letter-spacing="2" fill="#E8E3D5" >SCALE</text>
+<text x="865" y="234" text-anchor="middle" font-family="'Courier New',Courier,monospace" font-size="14" fill="#8E8A7E">it grows</text>
+<line x1="1130" y1="152" x2="1130" y2="188" stroke="#2A2F38" stroke-width="1.5"/>
+<circle cx="1130" cy="140" r="13" fill="#0D1117" stroke="#C9A24D" stroke-width="3"/>
+<circle cx="1130" cy="140" r="5" fill="#F0D68A"/><circle cx="1130" cy="140" r="20" fill="none" stroke="#C9A24D" stroke-width="1" opacity=".5"><animate attributeName="r" values="16;26;16" dur="2.4s" repeatCount="indefinite"/><animate attributeName="opacity" values=".6;0;.6" dur="2.4s" repeatCount="indefinite"/></circle>
+<text x="1140" y="212" text-anchor="end" font-family="Georgia,'Times New Roman',serif" font-weight="700" font-size="19" letter-spacing="2" fill="#E8E3D5" >FINISH</text>
+<text x="1140" y="234" text-anchor="end" font-family="'Courier New',Courier,monospace" font-size="14" fill="#8E8A7E">it ships</text>
+<text x="60" y="62" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-weight="700" font-size="13" letter-spacing="6" fill="#C9A24D">SAN DIEGO</text>
+<text x="1140" y="62" text-anchor="end" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-weight="700" font-size="13" letter-spacing="6" fill="#C9A24D">NEW YORK</text>
+<text x="600" y="62" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-style="italic" font-size="15" fill="#8E8A7E">Most racers never make it past the second checkpoint.</text>
+<g><circle r="11" fill="url(#rb)" stroke="#C9A24D" stroke-width="2"/><path d="M0 0 m-2 0 a2 2 0 1 1 4 0 a4 4 0 1 1 -8 0" fill="none" stroke="#8A6D2B" stroke-width="1.4"/><animateMotion dur="10s" repeatCount="indefinite" rotate="auto"><mpath href="#route"/></animateMotion></g>
+</svg>
